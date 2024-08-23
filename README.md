@@ -1,1 +1,0 @@
-# justadmir.github.io
