@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+}
+
+.container {
+    text-align: center;
+}
+
+video {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto 20px;
+}
+
+p {
+    font-size: 14px;
+    margin: 0;
+    padding-bottom: 5px;
+}
+
+#footer {
+    font-size: 10px;
+}
+
+a {
+    color: white;
+}
