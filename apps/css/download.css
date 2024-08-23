@@ -27,21 +27,21 @@
 
 
 .login-button { /* æŒ‰é’®ç¾ŽåŒ– */
-    width: 2%; /* å®½åº¦ */
-    height: 6px; /* é«˜åº¦ */
+    width: 10%; /* å®½åº¦ */
+    height: 15px; /* é«˜åº¦ */
     border-width: 0px; /* è¾¹æ¡†å®½åº¦ */
-    border-radius: 5px; /* è¾¹æ¡†åŠå¾„ */
+    border-radius: 15px; /* è¾¹æ¡†åŠå¾„ */
     background: #5BB1A8; /* èƒŒæ™¯é¢œè‰² */
     cursor: pointer; /* é¼ æ ‡ç§»å…¥æŒ‰é’®èŒƒå›´æ—¶å‡ºçŽ°æ‰‹åŠ¿ */
     outline: none; /* ä¸æ˜¾ç¤ºè½®å»“çº¿ */
     font-family: Microsoft YaHei; /* è®¾ç½®å­—ä½“ */
     color: rgb(252, 252, 252); /* å­—ä½“é¢œè‰² */
-    font-size: 4px; /* å­—ä½“å¤§å° */
+    font-size: 13px; /* å­—ä½“å¤§å° */
     display:block;
     margin:0 auto;
     text-align: center;
     text-decoration:none;
-    line-height: 4px;
+    line-height: 10px;
 }
 .login-button:hover { /* é¼ æ ‡ç§»å…¥æŒ‰é’®èŒƒå›´æ—¶æ”¹å˜é¢œè‰² */
     background: #5599FF;
