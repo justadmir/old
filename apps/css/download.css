@@ -14,7 +14,7 @@
 
 .name {
     position: relative;
-    top: 60%;
+    top: 0%;
     text-align:center;
     font-weight: bold;
     font-size: 25px;
@@ -22,26 +22,26 @@
 
 .download {
     position: relative;
-    top: 55%;
+    top: 1%;
 }
 
 
 .login-button { /* æŒ‰é’®ç¾ŽåŒ– */
-    width: 25%; /* å®½åº¦ */
-    height: 35px; /* é«˜åº¦ */
+    width: 10%; /* å®½åº¦ */
+    height: 15px; /* é«˜åº¦ */
     border-width: 0px; /* è¾¹æ¡†å®½åº¦ */
-    border-radius: 30px; /* è¾¹æ¡†åŠå¾„ */
+    border-radius: 15px; /* è¾¹æ¡†åŠå¾„ */
     background: #5BB1A8; /* èƒŒæ™¯é¢œè‰² */
     cursor: pointer; /* é¼ æ ‡ç§»å…¥æŒ‰é’®èŒƒå›´æ—¶å‡ºçŽ°æ‰‹åŠ¿ */
     outline: none; /* ä¸æ˜¾ç¤ºè½®å»“çº¿ */
     font-family: Microsoft YaHei; /* è®¾ç½®å­—ä½“ */
     color: rgb(252, 252, 252); /* å­—ä½“é¢œè‰² */
-    font-size: 25px; /* å­—ä½“å¤§å° */
+    font-size: 13px; /* å­—ä½“å¤§å° */
     display:block;
     margin:0 auto;
     text-align: center;
     text-decoration:none;
-    line-height: 30px;
+    line-height: 10px;
 }
 .login-button:hover { /* é¼ æ ‡ç§»å…¥æŒ‰é’®èŒƒå›´æ—¶æ”¹å˜é¢œè‰² */
     background: #5599FF;
@@ -58,7 +58,24 @@
         width: 400px;
     }
     .name {
-        font-size: 55px;
+        font-size: 50px;
     }
 }
 
+
+.download-btn {
+    background-color: #00bfff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 10px;
+    font-size: 16px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.download-btn:hover {
+    background-color: #01a2d8;
+}
