@@ -11,11 +11,12 @@ body {
 
 .container {
     text-align: center;
+    top: 0%;
 }
 
 .fopter {
     text-align: center;
-    height: auto;
+    top: 2%;
 }
 
 video {
